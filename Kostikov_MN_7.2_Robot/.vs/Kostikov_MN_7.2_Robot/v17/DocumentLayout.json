@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Kostikov_MN_7\\Kostikov_MN_7.2_Robot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EEE294-3ED3-4F58-B5F4-1B3A8655B80B}|Kostikov_MN_7.2_Robot\\Kostikov_MN_7.2_Robot.vcxproj|C:\\Users\\Admin\\source\\repos\\Kostikov_MN_7\\Kostikov_MN_7.2_Robot\\Kostikov_MN_7.2_Robot\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5EEE294-3ED3-4F58-B5F4-1B3A8655B80B}|Kostikov_MN_7.2_Robot\\Kostikov_MN_7.2_Robot.vcxproj|solutionrelative:Kostikov_MN_7.2_Robot\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Kostikov_MN_7\\Kostikov_MN_7.2_Robot\\Kostikov_MN_7.2_Robot\\main.cpp",
+              "RelativeDocumentMoniker": "Kostikov_MN_7.2_Robot\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Kostikov_MN_7\\Kostikov_MN_7.2_Robot\\Kostikov_MN_7.2_Robot\\main.cpp",
+              "RelativeToolTip": "Kostikov_MN_7.2_Robot\\main.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFUAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-31T22:22:02.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

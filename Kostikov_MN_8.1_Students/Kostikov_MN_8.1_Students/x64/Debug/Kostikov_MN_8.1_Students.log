@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Files\учусь программировать\ВУЗ\Kostikov_MN_8.1_Students\Kostikov_MN_8.1_Students\main.cpp(142,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Files\учусь программировать\ВУЗ\Kostikov_MN_8.1_Students\Kostikov_MN_8.1_Students\main.cpp(150,22): warning C4267: +=: преобразование из "size_t" в "myuint"; возможна потеря данных
+D:\Files\учусь программировать\ВУЗ\Kostikov_MN_8.1_Students\Kostikov_MN_8.1_Students\main.cpp(166,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "size_t"
+      D:\Files\учусь программировать\ВУЗ\Kostikov_MN_8.1_Students\Kostikov_MN_8.1_Students\main.cpp(166,9):
+      рекомендуется использовать "%zd" в строке форматирования
+  
+  Kostikov_MN_8.1_Students.vcxproj -> D:\Files\учусь программировать\ВУЗ\Kostikov_MN_8.1_Students\x64\Debug\Kostikov_MN_8.1_Students.exe
