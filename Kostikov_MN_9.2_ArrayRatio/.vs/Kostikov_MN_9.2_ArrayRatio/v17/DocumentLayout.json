@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_9.2_ArrayRatio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3366997F-6768-4651-9B71-3FFE43DC93F1}|Kostikov_MN_9.2_ArrayRatio\\Kostikov_MN_9.2_ArrayRatio.vcxproj|D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_9.2_ArrayRatio\\Kostikov_MN_9.2_ArrayRatio\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3366997F-6768-4651-9B71-3FFE43DC93F1}|Kostikov_MN_9.2_ArrayRatio\\Kostikov_MN_9.2_ArrayRatio.vcxproj|solutionrelative:Kostikov_MN_9.2_ArrayRatio\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_9.2_ArrayRatio\\Kostikov_MN_9.2_ArrayRatio\\main.cpp",
+              "RelativeDocumentMoniker": "Kostikov_MN_9.2_ArrayRatio\\main.cpp",
+              "ToolTip": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_9.2_ArrayRatio\\Kostikov_MN_9.2_ArrayRatio\\main.cpp",
+              "RelativeToolTip": "Kostikov_MN_9.2_ArrayRatio\\main.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T19:47:34.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

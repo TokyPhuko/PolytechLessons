@@ -95,8 +95,6 @@ unsigned char myRandom() {
 
 int* randMass() {//функция создания массива рандомных значений
 	int* mass = new int[255];//динамический массив значений. мы его нигде не удаляем, тк и функцию нигде не вызываем
-	static Register reg;
-	Register inter = reg;
 
 	for (int i = 0; i < 255; i++) {//записываем все возможные 255 значений в массив
 		mass[i] = (int)(myRandom());
