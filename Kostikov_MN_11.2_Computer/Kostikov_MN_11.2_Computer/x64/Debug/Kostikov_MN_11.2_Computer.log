@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Files\учусь программировать\PolytechLessons\Kostikov_MN_11.2_Computer\Kostikov_MN_11.2_Computer\main.cpp(19,65): warning C4305: инициализация: усечение из "double" в "float"
+  Kostikov_MN_11.2_Computer.vcxproj -> D:\Files\учусь программировать\PolytechLessons\Kostikov_MN_11.2_Computer\x64\Debug\Kostikov_MN_11.2_Computer.exe

@@ -1,0 +1,10 @@
+Boris Nuraliev;Huawei MateBook D16;80004.100000;
+George Harrison;Lenovo IdeaPad Slim 3;82650.000000;
+Redrik Shuhart;Asus VivoBook 15;81147.800000;
+Redrik Shuhart;Apple MacBook Air M2;82446.400000;
+Paul McCartney;Huawei MateBook D16;82328.100000;
+Paul McCartney;Apple MacBook Air M2;80049.100000;
+George Harrison;Honor Magicbook X16;80482.700000;
+Boris Nuraliev;Huawei MateBook D16;81460.400000;
+Redrik Shuhart;Huawei MateBook D16;80029.200000;
+John Lennon;Asus VivoBook 15;81871.600000;

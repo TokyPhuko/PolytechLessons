@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Files\учусь программировать\PolytechLessons\Kostikov_MN_11.1_LearningCourses\Kostikov_MN_11.1_LearningCourses\main.cpp(131,107): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Files\учусь программировать\PolytechLessons\Kostikov_MN_11.1_LearningCourses\Kostikov_MN_11.1_LearningCourses\main.cpp(64,1): warning C4715: Course::stringMarkType: значение возвращается не при всех путях выполнения
+  Kostikov_MN_11.1_LearningCourses.vcxproj -> D:\Files\учусь программировать\PolytechLessons\Kostikov_MN_11.1_LearningCourses\x64\Debug\Kostikov_MN_11.1_LearningCourses.exe

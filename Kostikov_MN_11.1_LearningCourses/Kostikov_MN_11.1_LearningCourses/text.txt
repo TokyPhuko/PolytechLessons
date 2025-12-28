@@ -1,0 +1,6 @@
+Informatics; Diff credit; 4; 1.000000
+Mathematics; Credit; 5; 3.200000
+Physics; Exam; 1; 3.500000
+Physics; Diff credit; 4; 4.400000
+Mathematics; Credit; 7; 1.200000
+Mathematics; Exam; 5; 1.100000

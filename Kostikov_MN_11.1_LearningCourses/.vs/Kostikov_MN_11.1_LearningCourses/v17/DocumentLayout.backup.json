@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_11.1_LearningCourses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B94D3408-2B4B-4B52-A089-B2802AFF79E3}|Kostikov_MN_11.1_LearningCourses\\Kostikov_MN_11.1_LearningCourses.vcxproj|D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_11.1_LearningCourses\\Kostikov_MN_11.1_LearningCourses\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B94D3408-2B4B-4B52-A089-B2802AFF79E3}|Kostikov_MN_11.1_LearningCourses\\Kostikov_MN_11.1_LearningCourses.vcxproj|solutionrelative:Kostikov_MN_11.1_LearningCourses\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_11.1_LearningCourses\\Kostikov_MN_11.1_LearningCourses\\main.cpp",
+              "RelativeDocumentMoniker": "Kostikov_MN_11.1_LearningCourses\\main.cpp",
+              "ToolTip": "D:\\Files\\\u0443\u0447\u0443\u0441\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\PolytechLessons\\Kostikov_MN_11.1_LearningCourses\\Kostikov_MN_11.1_LearningCourses\\main.cpp",
+              "RelativeToolTip": "Kostikov_MN_11.1_LearningCourses\\main.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T12:37:20.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
